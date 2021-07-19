@@ -28,3 +28,5 @@ Transformatoren:
 Gehäuse: 
 
 Buchsen: 
+https://www.amazon.de/dp/B01M97RNNE/ref=sspa_dk_hqp_detail_aax_0?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQzI2VjdYWFI4N01UJmVuY3J5cHRlZElkPUEwNzE2NDg2M09EVDZTN1FQUTNFRCZlbmNyeXB0ZWRBZElkPUEwNDQwMzkzMkhJWlRER1AxMFpaOCZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl  
+25 €
