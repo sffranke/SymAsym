@@ -7,13 +7,16 @@ Platinen:
 
 Bauteile:  
 https://www.reichelt.de/my/1833715  
+2 x Gleichricher:  
+B140C10A  
+https://www.reichelt.de/brueckengleichrichter-200-v-10-a-b140c10a-p4664.html?&trstct=pol_2&nbc=1  
 Ca. 70 € 
 
 Kühlkörper:  
 2 x https://www.atogmbh-shop.de/p/kuehlkoerper-fuer-btc-amplifier-nach-symasym-v5-3  
 12 € +5€ Versand  
 
-2 Lastwiderstände von Bürklin  
+2 Lastwiderstände von Bürklin:  
 BestNr: 36E4790 (MPC722 0R22+0R22 K)  
 Typ: FUTABA MPC722 2X0R22 K  
 3,20 € + 8,50 € Versand!  
