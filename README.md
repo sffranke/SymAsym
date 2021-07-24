@@ -1,8 +1,9 @@
 # SymAsym
-HiFi Amplifier  
+HiFi Verstärker
 
 Platinen:  
-2 x https://www.atogmbh-shop.de/p/platine-fuer-btc-amplifier-nach-symasym-v5-3  
+2 x https://www.atogmbh-shop.de/p/platine-fuer-btc-amplifier-nach-symasym-v5-3 
+*Es handelt sich bei dem Plan von Ato-GmbH um die Variante "Betrieb ohne Vorverstärker" (R30=399 Ohm, R16=R19=0 Ohm, siehe auch http://anleitung.diy-audio-shop.de/Symasym.pdf ), die aber bei Bedarf leicht modifizierbar ist*
 20 € + 5 € Versand  
 
 Bauteile:  
