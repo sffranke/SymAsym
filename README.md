@@ -5,7 +5,7 @@ Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
 Daher muss eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
 
-Die Kühlkörper (siehe unten, 150mm x 70mm x 25mm), die ich verbaut habe, erwärmen sich im Zimmerlautstärke-Betrieb auf ca. 46 Grad C. Bei de Lautstärke, bei der man die Fenster schließt, um die Nachbar nicht zu nerven, aber für meinen Begriff noch nicht extrem laut, werden die KK ca. 60 Grad C heiß.
+Die Kühlkörper (siehe unten, 150mm x 70mm x 25mm), die ich verbaut habe, erwärmen sich im Zimmerlautstärke-Betrieb auf ca. 46 Grad C. Bei de Lautstärke, bei der man die Fenster schließt, um die Nachbarn nicht zu nerven, aber für meinen Begriff noch nicht extrem laut, werden die KK ca. 60 Grad C heiß.
 
 
 Platinen:  
@@ -39,7 +39,7 @@ Selbstbau aus Holz.
 
 Stereo-Poti, 22k/log:  
 5 €  
-Besser Alps RK27:  
+Besser Alps RK27 https://www.reichelt.de/drehpotentiometer-stereo-50-kohm-logarithmisch-6-mm-rk27112-log50k-p73834.html?&nbc=1:  
 ca. 17 €  
 
 Kaltgerätebuchse für Gehäuse: 
