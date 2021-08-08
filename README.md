@@ -1,5 +1,5 @@
 # SymAsym
-HiFi Verstärker
+**HiFi Verstärker**
 
 Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.  
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
@@ -22,7 +22,7 @@ Ca. 70 €
 
 Kühlkörper:  
 2 x https://www.atogmbh-shop.de/p/kuehlkoerper-fuer-btc-amplifier-nach-symasym-v5-3  
-12 € +5€ Versand  
+12 € +5€ Versand 
 
 2 Lastwiderstände von Bürklin:  
 BestNr: 36E4790 (MPC722 0R22+0R22 K)  
@@ -34,7 +34,7 @@ Transformatoren:
 122 €  
 
 Gehäuse: 
-Selbstbau aus Holz. 
+Selbstbau aus Holz.   
 10 €
 
 Stereo-Poti, 22k/log:  
