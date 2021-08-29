@@ -36,6 +36,7 @@ Typ: FUTABA MPC722 2X0R22 K
 Transformatoren:  
 2 x https://sklep.toroidy.pl/en_US/p/TTSA0200-Transformer-AUDIO-TSA200VA-voltage-to-50V-/315  
 122 €  
+Ein Trafo reicht völlig!
 
 Gehäuse: 
 Selbstbau aus Holz.   
