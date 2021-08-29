@@ -1,6 +1,8 @@
 # SymAsym
 **HiFi Verstärker**
 
+Verbaut in einem DIY-Gehäuse mit Raspberry PI + Hifiberry DAC+.  
+
 Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.  
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
 Daher muss eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
@@ -23,6 +25,8 @@ Ca. 70 €
 Kühlkörper:  
 2 x https://www.atogmbh-shop.de/p/kuehlkoerper-fuer-btc-amplifier-nach-symasym-v5-3  
 12 € +5€ Versand 
+Nachtrag: die Kühlkörper sind zu klein. Besser die SK 85/75/SA nehmen für
+2 x 12,4 €  
 
 2 Lastwiderstände von Bürklin:  
 BestNr: 36E4790 (MPC722 0R22+0R22 K)  
@@ -45,6 +49,9 @@ ca. 17 €
 Kaltgerätebuchse für Gehäuse: 
 4,49 €
 
-Buchsen: 
+4 Buchsen für die Lautsprecher: 
 https://www.amazon.de/dp/B01M97RNNE/ref=sspa_dk_hqp_detail_aax_0?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQzI2VjdYWFI4N01UJmVuY3J5cHRlZElkPUEwNzE2NDg2M09EVDZTN1FQUTNFRCZlbmNyeXB0ZWRBZElkPUEwNDQwMzkzMkhJWlRER1AxMFpaOCZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl  
-25 €
+13,5 €
+
+
+
