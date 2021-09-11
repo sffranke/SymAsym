@@ -42,17 +42,23 @@ Gehäuse:
 Selbstbau aus Holz.   
 10 €
 
+Gitter als Deckel:  
+5 €
+
 Stereo-Poti, 22k/log:  
 5 €  
 Besser Alps RK27 https://www.reichelt.de/drehpotentiometer-stereo-50-kohm-logarithmisch-6-mm-rk27112-log50k-p73834.html?&nbc=1:  
 ca. 17 €  
 
-Kaltgerätebuchse für Gehäuse: 
+Kaltgerätebuchse für Gehäuse:  
 4,49 €
 
 4 Buchsen für die Lautsprecher: 
 https://www.amazon.de/dp/B01M97RNNE/ref=sspa_dk_hqp_detail_aax_0?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQzI2VjdYWFI4N01UJmVuY3J5cHRlZElkPUEwNzE2NDg2M09EVDZTN1FQUTNFRCZlbmNyeXB0ZWRBZElkPUEwNDQwMzkzMkhJWlRER1AxMFpaOCZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl  
 13,5 €
+
+Plus Raspberry Pi mit 7" Touchdisplay:
+https://www.amazon.de/gp/product/B08VNPYQ7Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 Es ist vollbracht und ja, es hat sich gelohnt!  
 <img src="pics/symasym.jpg"  width="300" height="200">
