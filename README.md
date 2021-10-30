@@ -6,6 +6,9 @@ Verbaut in einem DIY-Gehäuse mit Raspberry PI + Hifiberry DAC+.
 Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.  
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
 Daher muss eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
+  
+https://www.amazon.de/gp/product/B092HYNDGN/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1  
+16 €  
 
 Die Kühlkörper (siehe unten, 150mm x 70mm x 25mm), die ich verbaut habe, erwärmen sich im Zimmerlautstärke-Betrieb auf ca. 46 Grad C. Bei de Lautstärke, bei der man die Fenster schließt, um die Nachbarn nicht zu nerven, aber für meinen Begriff noch nicht extrem laut, werden die KK ca. 60 Grad C heiß.
 
