@@ -65,3 +65,5 @@ https://www.amazon.de/gp/product/B08VNPYQ7Y/ref=ppx_yo_dt_b_search_asin_title?ie
 
 Es ist vollbracht und ja, es hat sich gelohnt!  
 <img src="pics/symasym.jpg"  width="300" height="200">
+
+HifiberryOS hat sich bei mir als "out of the box" stabil erwiesen. Moode vergisst nach einiger Zeit reproduzierbar den Hifiberry DAC+, Volumino kommt mit dem Display nicht gut zurecht.
