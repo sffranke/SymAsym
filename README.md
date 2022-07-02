@@ -27,7 +27,7 @@ Ca. 70 €
 
 Kühlkörper:  
 2 x https://www.atogmbh-shop.de/p/kuehlkoerper-fuer-btc-amplifier-nach-symasym-v5-3  
-12 € +5€ Versand 
+12 € + 5 € Versand  
 Nachtrag: die Kühlkörper sind zu klein. Besser die SK 85/75/SA nehmen für
 2 x 12,4 €  
 
