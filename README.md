@@ -67,3 +67,6 @@ Es ist vollbracht und ja, es hat sich gelohnt!
 <img src="pics/symasym.jpg"  width="300" height="200">
 
 HifiberryOS hat sich bei mir als "out of the box" stabil erwiesen. Moode vergisst nach einiger Zeit reproduzierbar den Hifiberry DAC+, Volumino kommt mit dem Display nicht gut zurecht.
+
+Update Juni 22:  
+Zwischenzeitlich hat HifiberryOS sich nicht mehr mit Spotify vertragen. Bin wieder bei Moode und nun sehr damit zufrieden.  
