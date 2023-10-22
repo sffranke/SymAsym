@@ -70,3 +70,6 @@ HifiberryOS hat sich bei mir als "out of the box" stabil erwiesen. Moode vergiss
 
 Update Juni 22:  
 Zwischenzeitlich hat HifiberryOS sich nicht mehr mit Spotify vertragen. Bin wieder bei Moode und nun sehr damit zufrieden.  
+
+Update Oktober 23:
+Wieder bei HifiberryOS, Moode hatte immer wieder Verbindungsabbrüche. HifiberryOS klappt nun "out of the Box".
