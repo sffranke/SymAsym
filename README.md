@@ -75,6 +75,6 @@ Update Oktober 23:
 Wieder bei HifiberryOS, Moode hatte immer wieder Verbindungsabbrüche. HifiberryOS klappt nun "out of the Box".
 
 Configuration PI3:  
-In confix.txt eintragen:   
-Für Shutdown via Taster  
-dtoverlay=gpio-shutdown,gpio_pin=3,active_low=1,gpio_pull=up
+In confix.txt eintragen für Shutdown via Taster  
+dtoverlay=gpio-shutdown,gpio_pin=3,active_low=1,gpio_pull=up  
+Das funktioniert mit jedenfallse mit Moode aber nicht mit HifiBerryOS egal welcher GPIO_pin verwendet wird, siehe https://www.hifiberry.com/blog/powering-up-down-your-pi-with-a-button/
