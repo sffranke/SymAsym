@@ -5,7 +5,7 @@ Verbaut in einem DIY-Gehäuse mit Raspberry PI + Hifiberry DAC+.
 
 Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.  
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
-Daher muss eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
+Daher MUSS eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
   
 https://www.amazon.de/gp/product/B092HYNDGN/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1  
 16 €  
@@ -73,3 +73,8 @@ Zwischenzeitlich hat HifiberryOS sich nicht mehr mit Spotify vertragen. Bin wied
 
 Update Oktober 23:
 Wieder bei HifiberryOS, Moode hatte immer wieder Verbindungsabbrüche. HifiberryOS klappt nun "out of the Box".
+
+Configuration PI3:  
+In confix.txt eintragen:   
+Für Shutdown via Taster  
+dtoverlay=gpio-shutdown,gpio_pin=3,active_low=1,gpio_pull=up
