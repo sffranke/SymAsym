@@ -1,7 +1,7 @@
 # SymAsym
 **HiFi Verstärker**
 
-Verbaut in einem DIY-Gehäuse mit Raspberry PI + Hifiberry DAC+.  
+Verbaut in einem DIY-Gehäuse mit Raspberry PI + Hifiberry DAC+.  Aktuell im Pi4 mit fetter passiver Kühlung.
 
 Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.  
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
@@ -11,7 +11,6 @@ https://www.amazon.de/gp/product/B092HYNDGN/ref=ppx_od_dt_b_asin_title_s00?ie=UT
 16 €  
 
 Die Kühlkörper (siehe unten, 150mm x 70mm x 25mm), die ich verbaut habe, erwärmen sich im Zimmerlautstärke-Betrieb auf ca. 46 Grad C. Bei de Lautstärke, bei der man die Fenster schließt, um die Nachbarn nicht zu nerven, aber für meinen Begriff noch nicht extrem laut, werden die KK ca. 60 Grad C heiß.
-
 
 Platinen:  
 2 x https://www.atogmbh-shop.de/p/platine-fuer-btc-amplifier-nach-symasym-v5-3 
@@ -74,7 +73,14 @@ Zwischenzeitlich hat HifiberryOS sich nicht mehr mit Spotify vertragen. Bin wied
 Update Oktober 23:
 Wieder bei HifiberryOS, Moode hatte immer wieder Verbindungsabbrüche. HifiberryOS klappt nun "out of the Box".
 
-Configuration PI3:  
+Update Mai 24:  
+Es ist ein Drama, Spotify connect funktioniert mehr sehr schlecht als recht. Auch die neueste Alpha unter Pi4 ist hinsichtlich Spoify unbrauchbar. Gebe nun wieder Moode eine Chance. Wäre schön, wenn das mal langfristig funktionieren würde.  
+Und - der Sound ist soooo geil!
+
+Konfiguration PI3:  
 In confix.txt eintragen für Shutdown via Taster  
 dtoverlay=gpio-shutdown,gpio_pin=3,active_low=1,gpio_pull=up  
 Das funktioniert mit jedenfalls mit Moode aber nicht mit HifiBerryOS egal welcher GPIO_pin verwendet wird, siehe https://www.hifiberry.com/blog/powering-up-down-your-pi-with-a-button/
+
+Konfiguration PI3:  
+Keine Einstellungen notwendig
