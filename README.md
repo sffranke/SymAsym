@@ -2,17 +2,20 @@
 **HiFi Verstärker**
 
 Verbaut in einem DIY-Gehäuse mit Raspberry PI + Hifiberry DAC+.  Aktuell im Pi4 mit fetter passiver Kühlung.
+Nach über 4 Jahren bin ich noch glücklich mit Crazy Again, https://github.com/sffranke/crazy_again, (Dank an Don Highend, https://www.donhighend.de) und dem Symasym. 
 
 Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.  
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
-Daher MUSS eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
+Daher *MUSS* zusätzlich eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
+
+Memo für mich: Ruhestromeinstellung: Mit Poti R22 am Messpunkt 24 mV einstellen, Eingang ist dabei kurzgeschlossen.
   
 https://www.amazon.de/gp/product/B092HYNDGN/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1  
 16 €  
 
 Die Kühlkörper (siehe unten, 150mm x 70mm x 25mm), die ich verbaut habe, erwärmen sich im Zimmerlautstärke-Betrieb auf ca. 46 Grad C. Bei de Lautstärke, bei der man die Fenster schließt, um die Nachbarn nicht zu nerven, aber für meinen Begriff noch nicht extrem laut, werden die KK ca. 60 Grad C heiß.
 
-Platinen:  
+Platinen (leider zwischenzeitlich offline):  
 2 x https://www.atogmbh-shop.de/p/platine-fuer-btc-amplifier-nach-symasym-v5-3 
 *Es handelt sich bei dem Plan von Ato-GmbH um die Variante "Betrieb ohne Vorverstärker" (R30=499 Ohm, R16=R19=0 Ohm, siehe auch http://anleitung.diy-audio-shop.de/Symasym.pdf ), die aber bei Bedarf leicht modifizierbar ist*  
 20 € + 5 € Versand  
@@ -65,6 +68,9 @@ https://www.amazon.de/gp/product/B08VNPYQ7Y/ref=ppx_yo_dt_b_search_asin_title?ie
 Es ist vollbracht und ja, es hat sich gelohnt!  
 <img src="pics/symasym.jpg"  width="300" height="200">
 
+Update Mai 25 :-) Moode 9.34 kommt bestens zurecht und auch die nervigen gelegentlichen Verbindungsabbrüche unter Spotify scheinen der Vergangenheit anzugehören.
+
+Update wannauchimmer:
 HifiberryOS hat sich bei mir als "out of the box" stabil erwiesen. Moode vergisst nach einiger Zeit reproduzierbar den Hifiberry DAC+, Volumino kommt mit dem Display nicht gut zurecht.
 
 Update Juni 22:  
@@ -81,6 +87,7 @@ Konfiguration PI3:
 In confix.txt eintragen für Shutdown via Taster  
 dtoverlay=gpio-shutdown,gpio_pin=3,active_low=1,gpio_pull=up  
 Das funktioniert mit jedenfalls mit Moode aber nicht mit HifiBerryOS egal welcher GPIO_pin verwendet wird, siehe https://www.hifiberry.com/blog/powering-up-down-your-pi-with-a-button/
+Habe ich zwischenzeitlich als unnötig entfernt. Moode verträgt das hart Ausschalten problemlos.
 
 Konfiguration PI3:  
 Keine Einstellungen notwendig
