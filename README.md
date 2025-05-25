@@ -8,7 +8,7 @@ Es gibt verschiedene Anbieter von Platinen, die man "nur" noch bestücken muss.
 Bei der von mir gewählten Platine bereits die Anti-Plopp-Schaltung integriert. Die schützt aber nur vor dem Ein-und Ausschalt-Plopp. Sollten im Fehlerfall, z. B. ein Defekt das Transistors Q1) mit im laufenden Betrieb geschlossenen Relais, die Endstufentransistoren voll aufmachen, dann liegen an dem Lautsprecher >30 V an, was diesen tötet.  
 Daher *MUSS* zusätzlich eine DC-Erkennung eingebaut werden, die Gleichspannung am Lautsprecher erkennt und die Verbindung unterbricht!  
 
-Memo für mich: Ruhestromeinstellung: Mit Poti R22 am Messpunkt 24 mV einstellen, Eingang ist dabei kurzgeschlossen.
+Memo für mich: Ruhestromeinstellung mit Poti R22 am Messpunkt auf 24 mV, Eingang ist dabei kurzgeschlossen.
   
 https://www.amazon.de/gp/product/B092HYNDGN/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1  
 16 €  
