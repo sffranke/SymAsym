@@ -68,6 +68,8 @@ https://www.amazon.de/gp/product/B08VNPYQ7Y/ref=ppx_yo_dt_b_search_asin_title?ie
 Es ist vollbracht und ja, es hat sich gelohnt!  
 <img src="pics/symasym.jpg"  width="300" height="200">
 
+Update Nov 25: Moode hat mich wieder mal im Stich gelassen. Habe also alle gängingen Audio-Distros probiert und keine schafft es längerfristig stabil zu laufen. Neuralgische Punkte sind Spotify, das häufig nie geht wenn man es mal braucht und man workarounts googeln muss (was aber Spotify verursacht) und jetzt gerade unter rauduio ein nerviges hw-Bingo, bei dem die Device zufällig vergeben werden. Zudem werden die Configs agressiv überschrieben, natürlich mit falschen Werten. Es ist mir völlig unverständlich wie wir einerseits den Mars besiedeln wollen, andereseits unter Linux ein Audioalptraum haben, der sich seit 1992 nicht gebsessert hat. raudo war kaum zu bändigen, zudem hat das Scannen meins NAS nie funktioniert. Auch meine Nerven haben ein Ende. Zwischenzeitlich bin ich der Meinunf, dass man lieber 100 € für was komerzieles ausgeben sollte und seine Ruhe hat. Hätte ich in der investierten Zeit Flaschen gesammelt, hätte ich mir eine ganze Kiste stabiler kommerz. HW kaufen könen. Ich versuche es jetzt ein letztes Mal mit Raspberry Pi OS + Raspotify. Der Aus-Taster geht wieder in Betrieb.
+
 Update Mai 25 :-) Moode 9.34 kommt bestens zurecht und auch die nervigen gelegentlichen Verbindungsabbrüche unter Spotify scheinen der Vergangenheit anzugehören.
 
 Update wannauchimmer:
@@ -83,9 +85,10 @@ Update Mai 24:
 Es ist ein Drama, Spotify connect funktioniert mehr sehr schlecht als recht. Auch die neueste Alpha unter Pi4 ist hinsichtlich Spoify unbrauchbar. Gebe nun wieder Moode eine Chance. Wäre schön, wenn das mal langfristig funktionieren würde.  
 Und - der Sound ist soooo geil!
 
-Konfiguration PI3:  
+Konfiguration PI3/4:  
 In confix.txt eintragen für Shutdown via Taster  
-dtoverlay=gpio-shutdown,gpio_pin=3,active_low=1,gpio_pull=up  
+dtoverlay=gpio-shutdown,gpio_pin=11,active_low=1,gpio_pull=up  
+
 Das funktioniert mit jedenfalls mit Moode aber nicht mit HifiBerryOS egal welcher GPIO_pin verwendet wird, siehe https://www.hifiberry.com/blog/powering-up-down-your-pi-with-a-button/
 Habe ich zwischenzeitlich als unnötig entfernt. Moode verträgt das hart Ausschalten problemlos.
 
